@@ -1,0 +1,5 @@
+AMD Ryzen 5 3600 6-Core Processor
+Operation system:
+Windows 10
+Ubuntu 22.04.2
+
